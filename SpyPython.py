@@ -7,8 +7,8 @@ import win32ui
 import os
 from datetime import datetime
 
-SERVER_IP = '192.168.0.141'
-SERVER_PORT = 8888
+SERVER_IP = '0.0.0.0' #Edite aqui
+SERVER_PORT = 5555 #Edite aqui
 INTERVAL_SECONDS = 60  
 
 def get_dimensions():

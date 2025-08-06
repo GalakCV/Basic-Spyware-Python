@@ -13,5 +13,5 @@ Funcionalidades principais:
 - Cria uma pasta 'screenshots' para armazenar as imagens recebidas.
 - Encerra o servidor de forma limpa ao pressionar Ctrl+C
 - Entretanto, o código foi desenvolvido para ser compilado para um executável.
-- Link do cliente TCP: 
+- Link do cliente TCP: https://github.com/GalakCV/Spy-TCP-Client
 </h4>

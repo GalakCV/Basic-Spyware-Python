@@ -12,5 +12,6 @@ Funcionalidades principais:
 - Mantém o servidor rodando continuamente para múltiplas conexões.
 - Cria uma pasta 'screenshots' para armazenar as imagens recebidas.
 - Encerra o servidor de forma limpa ao pressionar Ctrl+C
-- Entretanto, uma vez compilado para um executável, há a possibilidade do programar rodar em "background" sem o usuário saber.
+- Entretanto, o código foi desenvolvido para ser compilado para um executável.
+- Link do cliente TCP: 
 </h4>
